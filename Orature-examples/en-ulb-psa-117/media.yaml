@@ -1,0 +1,15 @@
+---
+projects:
+- identifier: "psa"
+  version: ""
+  media:
+  - identifier: "mp3"
+    version: ""
+    url: ""
+    quality: []
+    chapter_url: "media/en_ulb_psa_c{chapter}.mp3"
+  - identifier: "cue"
+    version: ""
+    url: ""
+    quality: []
+    chapter_url: "media/en_ulb_psa_c{chapter}.cue"
