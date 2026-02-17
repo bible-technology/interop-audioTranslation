@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "name": {
+      "en": "Sample Burrito Burrito Wrapper"
+    },
+    "version": "0.0.1",
+    "generator": {
+      "name": "Audio Project Manager",
+      "version": "4.4.3"
+    },
+    "dateCreated": "2026-02-16",
+    "description": {
+      "en": "A new burrito wrapper for # Burrito"
+    },
+    "abbreviation": {
+      "en": "SEHSAM"
+    }
+  },
+  "format": "scripture burrito wrapper",
+  "contents": {
+    "burritos": [
+      {
+        "id": "SEHSAM-Audio",
+        "path": "audio",
+        "role": "source"
+      },
+      {
+        "id": "SEHSAM-Text",
+        "path": "text",
+        "role": "derived"
+      },
+      {
+        "id": "SEHSAM-Notes",
+        "path": "notes",
+        "role": "supplemental"
+      },
+      {
+        "id": "SEHSAM-Resources",
+        "path": "resources",
+        "role": "supplemental"
+      },
+      {
+        "id": "SEHSAM-Navigation",
+        "path": "navigation",
+        "role": "supplemental"
+      }
+    ]
+  }
+}
