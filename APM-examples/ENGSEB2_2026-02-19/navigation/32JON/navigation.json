@@ -1,0 +1,201 @@
+{
+  "titleMedia": [
+    {
+      "resourceType": "section",
+      "remoteId": "12506",
+      "path": "32JON/001/ENGSEB2-JON-section-1-1_1-16-title-12506.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12508",
+      "path": "32JON/002/ENGSEB2-JON-section-2-2_1-10-title-12508.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12507",
+      "path": "32JON/003/ENGSEB2-JON-section-3-3_1-10-title-12507.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12509",
+      "path": "32JON/004/ENGSEB2-JON-section-4-4_1-10-title-12509.ogg"
+    },
+    {
+      "resourceType": "sharedresource",
+      "remoteId": "97",
+      "path": "32JON/004/ENGSEB2-JON-note-2_1-10-title-Death's Door-97.ogg"
+    },
+    {
+      "resourceType": "sharedresource",
+      "remoteId": "90",
+      "path": "32JON/004/ENGSEB2-JON-note-undefined_undefined-undefined-title-Introduction to the book of Jonah-90.ogg"
+    },
+    {
+      "resourceType": "sharedresource",
+      "remoteId": "91",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-title-Messenger-91.ogg"
+    },
+    {
+      "resourceType": "sharedresource",
+      "remoteId": "92",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-title-Yahweh (general)-92.ogg"
+    },
+    {
+      "resourceType": "sharedresource",
+      "remoteId": "96",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-title-Sacrifice-96.ogg"
+    },
+    {
+      "resourceType": "sharedresource",
+      "remoteId": "95",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-title-Drawing Straws-95.ogg"
+    },
+    {
+      "resourceType": "category",
+      "remoteId": "232",
+      "path": "32JON/004/ENGSEB2-JON-category-title-Devotionals-232.ogg"
+    },
+    {
+      "resourceType": "category",
+      "remoteId": "255",
+      "path": "32JON/004/ENGSEB2-JON-category-title-Hosts-255.ogg"
+    },
+    {
+      "resourceType": "category",
+      "remoteId": "261",
+      "path": "32JON/004/ENGSEB2-JON-category-title-Explanations-261.ogg"
+    },
+    {
+      "resourceType": "category",
+      "remoteId": "260",
+      "path": "32JON/004/ENGSEB2-JON-category-title-Translation Decisions-260.ogg"
+    },
+    {
+      "resourceType": "category",
+      "remoteId": "229",
+      "path": "32JON/004/ENGSEB2-JON-category-title-Overviews-229.ogg"
+    }
+  ],
+  "graphics": [
+    {
+      "resourceType": "section",
+      "remoteId": "13380",
+      "path": "32JON/001/ENGSEB2-JON-section-0.01-undefined_undefined-undefined-nav-13380-240.webp"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12506",
+      "path": "32JON/001/ENGSEB2-JON-section-1-1_1-16-nav-12506-123.webp"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12508",
+      "path": "32JON/002/ENGSEB2-JON-section-2-2_1-10-nav-12508-127.webp"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12507",
+      "path": "32JON/003/ENGSEB2-JON-section-3-3_1-10-nav-12507-135.webp"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12509",
+      "path": "32JON/004/ENGSEB2-JON-section-4-4_1-10-nav-12509-139.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30534",
+      "path": "32JON/004/ENGSEB2-JON-note-3_1-10-nav-30534-136.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30540",
+      "path": "32JON/004/ENGSEB2-JON-note-2_1-10-nav-30540-93.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30528",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-nav-30528-129.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30565",
+      "path": "32JON/004/ENGSEB2-JON-note-2_1-10-nav-30565-92.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30527",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-nav-30527-128.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "31600",
+      "path": "32JON/004/ENGSEB2-JON-note-4_1-10-nav-31600-144.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "31598",
+      "path": "32JON/004/ENGSEB2-JON-note-4_1-10-nav-31598-169.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30541",
+      "path": "32JON/004/ENGSEB2-JON-note-2_1-10-nav-30541-133.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30542",
+      "path": "32JON/004/ENGSEB2-JON-note-2_1-10-nav-30542-134.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30530",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-nav-30530-131.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30523",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-nav-30523-132.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30526",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-nav-30526-126.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30533",
+      "path": "32JON/004/ENGSEB2-JON-note-3_1-10-nav-30533-137.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30531",
+      "path": "32JON/004/ENGSEB2-JON-note-3_1-10-nav-30531-138.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30561",
+      "path": "32JON/004/ENGSEB2-JON-note-4_1-10-nav-30561-140.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30559",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-nav-30559-196.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "31599",
+      "path": "32JON/004/ENGSEB2-JON-note-4_1-10-nav-31599-143.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "31597",
+      "path": "32JON/004/ENGSEB2-JON-note-4_1-10-nav-31597-141.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "30529",
+      "path": "32JON/004/ENGSEB2-JON-note-1_1-16-nav-30529-130.png"
+    }
+  ]
+}
