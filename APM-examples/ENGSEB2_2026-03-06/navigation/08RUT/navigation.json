@@ -1,0 +1,71 @@
+{
+  "titleMedia": [
+    {
+      "resourceType": "section",
+      "remoteId": "12513",
+      "path": "08RUT/001/ENGSEB2-RUT-section-1-1_1-21-title-12513.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12512",
+      "path": "08RUT/002/ENGSEB2-RUT-section-2-2_1-22-title-12512.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12514",
+      "path": "08RUT/004/ENGSEB2-RUT-section-4-4_1-1_1-title-12514.ogg"
+    },
+    {
+      "resourceType": "category",
+      "remoteId": "255",
+      "path": "08RUT/004/ENGSEB2-RUT-category-title-Hosts-255.ogg"
+    },
+    {
+      "resourceType": "category",
+      "remoteId": "261",
+      "path": "08RUT/004/ENGSEB2-RUT-category-title-Explanations-261.ogg"
+    }
+  ],
+  "graphics": [
+    {
+      "resourceType": "section",
+      "remoteId": "12513",
+      "path": "08RUT/001/ENGSEB2-RUT-section-1-1_1-21-nav-12513-156.webp"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12512",
+      "path": "08RUT/002/ENGSEB2-RUT-section-2-2_1-22-nav-12512-157.webp"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12511",
+      "path": "08RUT/003/ENGSEB2-RUT-section-3-3_1-18-nav-12511-158.webp"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "12514",
+      "path": "08RUT/004/ENGSEB2-RUT-section-4-4_1-1_1-nav-12514-159.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "31313",
+      "path": "08RUT/004/ENGSEB2-RUT-note-1_1-21-nav-31313-197.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "31721",
+      "path": "08RUT/004/ENGSEB2-RUT-note-3_1-18-nav-31721-206.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "31314",
+      "path": "08RUT/004/ENGSEB2-RUT-note-2_1-22-nav-31314-198.webp"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "31315",
+      "path": "08RUT/004/ENGSEB2-RUT-note-4_1-1_1-nav-31315-199.jpeg"
+    }
+  ]
+}
