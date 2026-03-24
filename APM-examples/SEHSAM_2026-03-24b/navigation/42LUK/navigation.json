@@ -1,0 +1,106 @@
+{
+  "titleMedia": [
+    {
+      "resourceType": "section",
+      "remoteId": "15142",
+      "path": "42LUK/001/SEHSAM-LUK-section-0.01-1_1-2_52-title-15142.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15139",
+      "path": "42LUK/001/SEHSAM-LUK-section-1-1_1-4-title-15139.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15143",
+      "path": "42LUK/001/SEHSAM-LUK-section-2-1_5-25-title-15143.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15137",
+      "path": "42LUK/001/SEHSAM-LUK-section-3-1_26-38-title-15137.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15138",
+      "path": "42LUK/001/SEHSAM-LUK-section-4-1_39-45-title-15138.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15140",
+      "path": "42LUK/001/SEHSAM-LUK-section-5-1_46-56-title-15140.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15141",
+      "path": "42LUK/001/SEHSAM-LUK-section-6-1_57-66-title-15141.ogg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15144",
+      "path": "42LUK/001/SEHSAM-LUK-section-7-1_67-80-title-15144.ogg"
+    },
+    {
+      "resourceType": "sharedresource",
+      "remoteId": "404",
+      "path": "42LUK/002/SEHSAM-LUK-note-1_1-4-title-Who is Luke-404.ogg"
+    }
+  ],
+  "graphics": [
+    {
+      "resourceType": "section",
+      "remoteId": "15142",
+      "path": "42LUK/001/SEHSAM-LUK-section-0.01-1_1-2_52-nav-15142-474.png"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15139",
+      "path": "42LUK/001/SEHSAM-LUK-section-1-1_1-4-nav-15139-465.jpeg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15143",
+      "path": "42LUK/001/SEHSAM-LUK-section-2-1_5-25-nav-15143-466.png"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15137",
+      "path": "42LUK/001/SEHSAM-LUK-section-3-1_26-38-nav-15137-468.jpeg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15138",
+      "path": "42LUK/001/SEHSAM-LUK-section-4-1_39-45-nav-15138-469.jpeg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15140",
+      "path": "42LUK/001/SEHSAM-LUK-section-5-1_46-56-nav-15140-470.jpeg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15141",
+      "path": "42LUK/001/SEHSAM-LUK-section-6-1_57-66-nav-15141-467.jpeg"
+    },
+    {
+      "resourceType": "section",
+      "remoteId": "15144",
+      "path": "42LUK/001/SEHSAM-LUK-section-7-1_67-80-nav-15144-471.jpeg"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "35372",
+      "path": "42LUK/002/SEHSAM-LUK-note-1_1-4-nav-35372-464.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "35380",
+      "path": "42LUK/002/SEHSAM-LUK-note-1_1-2_52-nav-35380-627.png"
+    },
+    {
+      "resourceType": "passage",
+      "remoteId": "35373",
+      "path": "42LUK/002/SEHSAM-LUK-note-1_1-4-nav-35373-475.png"
+    }
+  ]
+}
