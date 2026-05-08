@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "name": {
+            "en": "Unlocked Literal Bible"
+        },
+        "version": "0.0.1",
+        "generator": {
+            "name": "Orature",
+            "version": ""
+        },
+        "dateCreated": "2026-04-23T17:36:39.366912Z",
+        "description": {
+            "en": "Burrito wrapper containing text and audio burritos"
+        },
+        "abbreviation": {
+            "en": "en_ulb Burrito Wrapper"
+        }
+    },
+    "format": "scripture burrito wrapper",
+    "contents": {
+        "burritos": [
+            {
+                "id": "text",
+                "path": "text",
+                "role": "source"
+            },
+            {
+                "id": "audio",
+                "path": "audio",
+                "role": "derived"
+            }
+        ]
+    }
+}
