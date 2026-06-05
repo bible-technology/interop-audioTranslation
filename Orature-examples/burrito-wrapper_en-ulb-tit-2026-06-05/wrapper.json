@@ -8,7 +8,8 @@
             "name": "Orature",
             "version": ""
         },
-        "dateCreated": "2026-04-23T17:36:39.366912Z",
+        "defaultLocale": "en",
+        "dateCreated": "2026-06-05T13:28:14.620908Z",
         "description": {
             "en": "Burrito wrapper containing text and audio burritos"
         },
